@@ -1,2 +1,0 @@
-# Sonia
-Fitness plan
